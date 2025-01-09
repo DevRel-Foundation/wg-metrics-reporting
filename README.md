@@ -18,7 +18,7 @@ This working group aims to focus on:
 
 <!-- Estimate what resources and personnel are needed to accomplish the mission statement -->
 
-Members should try to allocate an hour per week to working group activities. This may include:
+Members should try to allocate an average of 2-4 hours per week between meetings and asynchronous work. The commitment may include activities such as:
 
 - Participating in discussions on the mailing list, Discord channel, or GitHub.
 - Contributing to collaborative documents or research efforts.
