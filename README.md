@@ -10,13 +10,18 @@ All material contributed to the DRF Metrics, Reporting, and Best Practices Work 
 
 ## Mission Statement
 
-<!-- Write a well-defined mission statement for the group for the 6 month period -->
+This working group aims to focus on:
 
-### Mission Statement for the Metrics Reporting Working Group
+## Expectations
 
-This working group is dedicated to
+<!-- Estimate what resources and personnel are needed to accomplish the mission statement -->
 
+Members should try to allocate an hour per week to working group activities. This may include:
 
+- Participating in discussions on the mailing list, Discord channel, or GitHub.
+- Contributing to collaborative documents or research efforts.
+- Attending scheduled meetings or asynchronous check-ins.
+- Reviewing and providing feedback on group outputs.
 
 ## Manager List
 
@@ -28,7 +33,11 @@ This working group is dedicated to
 
 ## Meetings
 
-You can find the event in the global DRF community calendar: https://lists.dev-rel.org/g/community/calendar
+Our regular will alternate between APAC, EMEA, and AMER, occuring every two weeks. You can find each agenda on GitHub and event in the global DRF community calendar: https://lists.dev-rel.org/g/community/calendar
+
+## Code of Conduct
+
+Members and participants must adhere to the [Code of Conduct](https://github.com/DevRel-Foundation/governance/blob/main/code_of_conduct.md) for the DRF community .
 
 ## Questions
 
