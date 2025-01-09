@@ -4,7 +4,7 @@ Welcome to the DRF Metrics, Reporting, and Best Practices Work Group
 
 - Our mailing list to join is here: https://lists.dev-rel.org/g/wg-metrics-reporting
 - Our Mission is {insert WG mission here}
-- Our Strategic goals for {insert year} are {link to `https://github.com/DevRel-Foundation/the-drf-wg-gh-name/goals.md`}
+- Our Strategic goals for 2025 are {link to `https://github.com/DevRel-Foundation/the-drf-wg-gh-name/goals.md`}
 - We welcome contributions via {insert additional channels} and here on GitHub.
 
 All material contributed to the DRF Metrics, Reporting, and Best Practices Work Group is under [CC-BY-4.0 Licensing](https://creativecommons.org/licenses/by/4.0/deed.en).
