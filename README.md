@@ -31,7 +31,7 @@ Members should try to allocate an average of 2-4 hours per week between meetings
 |    ---   |     ---   |      ---        |     ---    |
 | Divya Mohan | [@divya-mohan](https://github.com/divya-mohan0209) | divya | [🔗](https://www.linkedin.com/in/divya-mohan0209/) |
 | Pratik Parmar | @ awesome | Pratik Parmar | [🔗](https://www.linkedin.com/in/pratikparmar1/) | 
-| Liz | @ awesome | Lizzzzzzzzzzz | [🔗]() |
+| Liz Acosta | [@liz-acosta](https://github.com/liz-acosta) | Lizzzzzzzzzzz | [🔗](https://www.linkedin.com/in/lizacostalinkedin/) |
 
 ## Meetings
 
