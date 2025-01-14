@@ -3,7 +3,7 @@
 Welcome to the DRF Metrics, Reporting, and Best Practices Work Group
 
 - Our mailing list to join is here: https://lists.dev-rel.org/g/wg-metrics-reporting
-- Our Strategic goals for 2025 can be found [here](./goals.md)
+- Our Strategic goals for 2025 can be found in the [WG charter](./CHARTER.md)
 - We welcome contributions and discussions via the mailing list, the Discord forum channel, and here on GitHub.
 
 All material contributed to the DRF Metrics, Reporting, and Best Practices Work Group is under [CC-BY-4.0 Licensing](https://creativecommons.org/licenses/by/4.0/deed.en).
@@ -19,7 +19,7 @@ This working group aims to focus on:
 The themes for the Metrics, Reporting, and Best Practices working group include:
 
 - **Strategy Improvement**: Develop tracking metrics and use the Orbit model.
-- **Regional Analysis**: Address refional engagement differences.
+- **Regional Analysis**: Address regional engagement differences.
 - **Customer Journey**: Track the customer journey and categorise DevRel verticals.
 - **Reporting**: Create an annual state report and best practices for measuring value.
 - **Funding and Metrics**: Develop sustainable funding models and metrics for segmanets without engagement data, like open-source DevRel.
