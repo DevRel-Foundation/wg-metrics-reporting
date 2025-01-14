@@ -14,6 +14,16 @@ All material contributed to the DRF Metrics, Reporting, and Best Practices Work 
 
 This working group aims to focus on:
 
+## Themes
+
+The themes for the Metrics, Reporting, and Best Practices working group include:
+
+- **Strategy Improvement**: Develop tracking metrics and use the Orbit model.
+- **Regional Analysis**: Address refional engagement differences.
+- **Customer Journey**: Track the customer journey and categorise DevRel verticals.
+- **Reporting**: Create an annual state report and best practices for measuring value.
+- **Funding and Metrics**: Develop sustainable funding models and metrics for segmanets without engagement data, like open-source DevRel.
+
 ## Expectations
 
 <!-- Estimate what resources and personnel are needed to accomplish the mission statement -->
