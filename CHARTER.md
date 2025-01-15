@@ -4,17 +4,25 @@ The DRF Metrics, Reporting, and Best Practices Working Group charter is an opera
 
 ## 1. Working Group Definition
 
-The primary objectives of the Metrics, Reporting, and Best Practices WG include the following themes: Strategy Improvement, Regional Analysis, Customer Journey, Reporting, Funding and Metrics. The themes aim to:
+The primary objectives of the Metrics, Reporting, and Best Practices WG include the following themes: 
 
-- Develop tracking and metrics strategies, including the potential consequences and unintended behaviors of optimizing for specific metrics.
-- Review models like the Orbit Model, Marketing Funnel, AAARRRP Strategy Framework, etc. to guide DevRel strategies.
-- Analyze engagement models and frameworks for targeting different geographical regions (e.g., more partner-focused approaches in Japan).
-- Consider regional differences in DevRel strategies, with specific attention to geographical and cultural nuances.
-- Track the customer/partner journey from initial engagement to maturity, ensuring continued support.
-- Label and categorize DevRel verticals such as non-commercial, academia, for-profit, etc.
-- Create an annual report on the current state of DevRel.
-- Establish best practices for measuring the value of DevRel.
-- Develop sustainable funding models and ways to demonstrate ROI for DevRel initiatives.
+- **Strategy Improvement**:
+  - Review models like the Orbit Model, Marketing Funnel, AAARRRP Strategy Framework, Bowling Alley Framework.
+  - Develop tracking and metrics strategies, including the potential consequences and unintended behaviors of optimizing for specific metric
+  
+- **Regional Analysis**:
+  - Address regional engagement differences in DevRel strategies, with specific attention to geographical and cultural nuances.
+  
+- **Customer Journey**:
+  - Track the customer/partner journey from initial engagement to maturity, ensuring continued support.
+  - Analyze engagement models and frameworks for targeting different geographical regions
+  - Label and categorize DevRel verticals such as non-commercial, academia, for-profit, etc.
+  
+- **Reporting**:
+  - Create an annual state report and best practices for measuring value
+  
+- **Funding and Metrics**:
+  - Develop sustainable funding models and metrics for segments without engagement data
 
 ## 2. Working Group Team Structure
 This working group is composed of managers and participants.
