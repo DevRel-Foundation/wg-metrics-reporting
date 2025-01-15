@@ -4,35 +4,50 @@ The DRF Metrics, Reporting, and Best Practices Working Group charter is an opera
 
 ## 1. Working Group Definition
 
-The primary objectives of the Metrics, Reporting, and Best Practices WG includes the following themes:
+The primary objectives of the Metrics, Reporting, and Best Practices WG include the following themes: Strategy Improvement, Regional Analysis, Customer Journey, Reporting, Funding and Metrics. The themes aim to:
 
-- **Strategy Improvement**: Develop tracking metrics and use the Orbit Model.
-- **Regional Analysis**: Address regional engagement differences.
-- **Customer Journey**: Track the customer journey and categorise DevRel verticals.
-- **Reporting**: Create an annual state report and best practices for measuring value.
-- **Funding and Metrics**: Develop sustainable funding models and metrics for segments without engagement data, like open-source DevRel.
+- Develop tracking and metrics strategies, including the potential consequences and unintended behaviors of optimizing for specific metrics.
+- Review models like the Orbit Model, Marketing Funnel, AAARRRP Strategy Framework, etc. to guide DevRel strategies.
+- Analyze engagement models and frameworks for targeting different geographical regions (e.g., more partner-focused approaches in Japan).
+- Consider regional differences in DevRel strategies, with specific attention to geographical and cultural nuances.
+- Track the customer/partner journey from initial engagement to maturity, ensuring continued support.
+- Label and categorize DevRel verticals such as non-commercial, academia, for-profit, etc.
+- Create an annual report on the current state of DevRel.
+- Establish best practices for measuring the value of DevRel.
+- Develop sustainable funding models and ways to demonstrate ROI for DevRel initiatives.
 
-## 2. Working Group Composition
+## 2. Working Group Team Structure
 This working group is composed of managers and participants.
 
-### 2.1 Manager
+### 2.1 Managers
+The Managers of the WG set the meeting times, dates and agendas, facilitate the conversations, and be the point of contact with the Steering Committee. Managers can assign new Managers within the working group if requested by Participants actively involved in regular activities. 
 
-### 2.2 Participant
-
+### 2.2 Participants
+Participants play an active role in accomplishing the group tasks, including attending and engaging in meetings, contributing to ideas and recommendations, and taking ownership of action items identified in the meetings.
 
 ## 3. Meetings
 
-### 3.1 Cadence
+### 3.1 Meeting Notes
 
-### 3.1 Annual Activities
+### 3.2 Annual Activities
 
 Example: budget/finance, meeting planning, elections, etc
 
-## 4. Working Group Resources
+## 4. Timeline
+
+### 4.1 Phase One
+
+### 4.2 Phase Two
+
+### 4.3 Phase Three
+
+### 4.4 Phase Four
+
+## 5. Working Group Resources
 
 These resources help to achieve the WG objectives:
 
-## 5. Governance
+## 6. Governance
 
 All Working Groups within the DevRel Foundation must:
 
