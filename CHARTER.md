@@ -7,55 +7,79 @@ The DRF Metrics, Reporting, and Best Practices Working Group charter is an opera
 The primary objectives of the Metrics, Reporting, and Best Practices WG include the following themes: 
 
 - **Strategy Improvement**:
-  - Review models like the Orbit Model, Marketing Funnel, AAARRRP Strategy Framework, Bowling Alley Framework.
-  - Develop tracking and metrics strategies, including the potential consequences and unintended behaviors of optimizing for specific metric
+  - Review models like: the Orbit Model, Marketing Funnel, AAARRRP Strategy Framework, Bowling Alley Framework.
+  - Develop tracking and metrics strategies, including the potential consequences and unintended behaviors of optimizing for specific metric.
   
 - **Regional Analysis**:
   - Address regional engagement differences in DevRel strategies, with specific attention to geographical and cultural nuances.
   
 - **Customer Journey**:
   - Track the customer/partner journey from initial engagement to maturity, ensuring continued support.
-  - Analyze engagement models and frameworks for targeting different geographical regions
+  - Analyze engagement models and frameworks for targeting different geographical regions.
   - Label and categorize DevRel verticals such as non-commercial, academia, for-profit, etc.
   
 - **Reporting**:
-  - Create an annual state report and best practices for measuring value
+  - Create an annual state report and best practices for measuring value.
   
 - **Funding and Metrics**:
-  - Develop sustainable funding models and metrics for segments without engagement data
+  - Develop sustainable funding models and metrics for segments without engagement data.
 
 ## 2. Working Group Team Structure
-This working group is composed of managers and participants.
+The team members of the Working Group include Developer Educators, Community Managers, Documentation Writers, Adoption Strategists, Technical Marketers, and every other DevRel professionals. The team members are structured into managers, participants, and community members.
 
-### 2.1 Managers
-The Managers of the WG set the meeting times, dates and agendas, facilitate the conversations, and be the point of contact with the Steering Committee. Managers can assign new Managers within the working group if requested by Participants actively involved in regular activities. 
+### Community Members
+The Community Members include individuals who are interested in the Developer Relations Foundation.
 
-### 2.2 Participants
-Participants play an active role in accomplishing the group tasks, including attending and engaging in meetings, contributing to ideas and recommendations, and taking ownership of action items identified in the meetings.
+### Participants
+The Participants play an active role in:
+- attending and engaging in the WG meetings.
+- accomplishing tasks identified in the WG meetings, GitHub issues, etc.
+- contributing ideas and recommendations to the WG themes, goals, and deliverables.
+- taking ownership of action items identified in the meetings.
 
-## 3. Meetings
+### Managers
+The Managers lead the WG in project management and are actively engaged in communications between the community members, the partcipants, and the Steering Committee. The managers' roles include: 
 
-### 3.1 Meeting Notes
+**Communication:**
+- Set recurring meeting time and dates that allow for synchronous communication with participants that may be spread across different time-zones.
+- Set meeting agendas.
+- Take meeting notes in order to share outcomes and progress.
+- Facilitate conversations in the WG Discord channel and mailing lists.
+- Ensure that participant questions are recognized and addressed across channels.
+- Communicate with other team members at regular intervals through updates to github discussions, discord, and the mailing list.
+- Report to the Steering Commitee on the WG progress.
 
-### 3.2 Annual Activities
+**Project Management:**
+- Manage tasks by creating [GitHub issues](https://github.com/DevRel-Foundation/wg-metrics-reporting) and traiging them for assignments.
+- Follow-up and facilitate the completion of tasks within a reasonable time frame in order to meet working group objectives.
+- Assign new Managers within the WG if requested by Participants actively involved in the WG activities.
+
+## 3. Working Group Meetings
+
+### Meeting Notes
+
+### Annual Activities
 
 Example: budget/finance, meeting planning, elections, etc
 
-## 4. Timeline
+## 4. Working Group Feedback
+Team members can contribute feedback on how the working group functions and operates via the [GitHub Discussions](). Specifically, the [Feedback category]()  is an area managers will utilize to post surveys and polls that invite input.
 
-### 4.1 Phase One
+## 5. Working Group Deliverables Timeline
 
-### 4.2 Phase Two
+### Phase One:
 
-### 4.3 Phase Three
+### Phase Two:
 
-### 4.4 Phase Four
+### Phase Three:
 
-## 5. Working Group Resources
+### Phase Four:
+
+## 6. Working Group Resources
 
 These resources help to achieve the WG objectives:
 
-## 6. Governance
+## 7. Governance
 
 All Working Groups within the DevRel Foundation must:
 
