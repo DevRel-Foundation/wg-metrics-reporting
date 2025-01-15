@@ -18,11 +18,23 @@ This working group aims to focus on:
 
 The themes for the Metrics, Reporting, and Best Practices working group include:
 
-- **Strategy Improvement**: Develop tracking metrics and use the Orbit model.
-- **Regional Analysis**: Address regional engagement differences.
-- **Customer Journey**: Track the customer journey and categorise DevRel verticals.
-- **Reporting**: Create an annual state report and best practices for measuring value.
-- **Funding and Metrics**: Develop sustainable funding models and metrics for segmanets without engagement data, like open-source DevRel.
+- **Strategy Improvement**:
+  - Review models like the Orbit Model, Marketing Funnel, AAARRRP Strategy Framework, Bowling Alley Framework.
+  - Develop tracking and metrics strategies, including the potential consequences and unintended behaviors of optimizing for specific metric
+  
+- **Regional Analysis**:
+  - Address regional engagement differences in DevRel strategies, with specific attention to geographical and cultural nuances.
+  
+- **Customer Journey**:
+  - Track the customer/partner journey from initial engagement to maturity, ensuring continued support.
+  - Analyze engagement models and frameworks for targeting different geographical regions
+  - Label and categorize DevRel verticals such as non-commercial, academia, for-profit, etc.
+  
+- **Reporting**:
+  - Create an annual state report and best practices for measuring value
+  
+- **Funding and Metrics**:
+  - Develop sustainable funding models and metrics for segments without engagement data
 
 ## Expectations
 
