@@ -10,9 +10,7 @@ All material contributed to the DRF Metrics, Reporting, and Best Practices Work 
 
 ## Mission Statement
 
-<!-- Insert mission statement -->
-
-This working group aims to focus on:
+The mission of the Metrics, Reporting, and Best Practices Working Group is to Pitch, Equip, Create, Update, Test, and Review DevRel Process, Framework, Strategy and Tactics for measuring the DevRel Stakeholders' Impacts and Growth.
 
 ## Themes
 
