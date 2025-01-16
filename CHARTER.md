@@ -25,7 +25,7 @@ The primary objectives of the Metrics, Reporting, and Best Practices WG include 
   - Develop sustainable funding models and metrics for segments without engagement data.
 
 ## 2. Working Group Team Structure
-The team members of the Working Group include Developer Educators, Community Managers, Documentation Writers, Adoption Strategists, Technical Marketers, and every other DevRel professionals. The team members are structured into managers, participants, and community members.
+The team members of the Working Group include Developer Educators, Community Managers, Documentation Writers, Adoption Strategists, Product Engineers, CTOs, Technical Marketers, Customer Support Engineers, and every other DevRel Stakeholders. The team members are structured into managers, participants, and community members.
 
 ### Community Members
 The Community Members include individuals who are interested in the Developer Relations Foundation.
